@@ -93,7 +93,7 @@
     "ms-rest": "2.3.4",
     "ms-rest-azure": "2.5.7",
     "node-fetch": "2.6.1",
-    "node-forge": "0.10.0",
+    "node-forge": "1.0.0",
     "ssh2": "1.4.0"
   }
 }
